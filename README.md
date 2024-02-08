@@ -1,3 +1,8 @@
+# Youtube Clone :
+### Implemented full search functionalities with auto suggestions and debouncing, N - level nested comments, and live chat using Youtube APIs.
+### Tech stacks - React JS, Tailwind CSS, Redux Toolkit
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
