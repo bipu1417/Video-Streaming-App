@@ -1,6 +1,18 @@
 # Youtube Clone :
-### Implemented full search functionalities with auto suggestions and debouncing, N - level nested comments, and live chat using Youtube APIs.
+
+### Implemented Features :
+  - full search functionalities with auto suggestions
+  - Using Debouncing while showing suggestion to make least API calls,
+  - N - level nested comments - youtube uses 2 level comments and
+  - Live chat using Redux Toolkit in best optimised way. It does not overload the DOM.
+
+
 ### Tech stacks - React JS, Tailwind CSS, Redux Toolkit
+
+### Task in Queue :
+  - On click of search icon it should fiter the videos
+  - Login/Logout
+  - Like comments
 
 
 # Getting Started with Create React App
