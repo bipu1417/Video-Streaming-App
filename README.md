@@ -4,7 +4,7 @@
 https://github.com/bipu1417/Youtube-clone/assets/15422942/6d5981b8-00f6-4e34-b10a-62b6914f779f
 
 
-# Youtube Clone :
+# Video Streaming App :
 
 ### Implemented Features :
   - full search functionalities with auto suggestions
